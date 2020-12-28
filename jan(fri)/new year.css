@@ -1,0 +1,53 @@
+body.imge{
+	background-image: url('yes.jpg');
+	
+}
+
+div.header {
+  background-color: #9933cc;
+  color: #ffffff;
+  padding:40;
+  text-shadow: 2px 2px 4px #000000;
+  text-transform: capitalize;
+  border-style: dashed;
+}
+div.card {
+  box-shadow: 6px 6px 20px black;
+  border-radius: 10px;
+  transition: 0.3s;
+  width: 30%;
+  border-style: dashed;
+  border-color: white;
+  margin: 200px;
+  
+}
+
+
+div.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+div.container {
+  padding: 2px 16px;
+}
+h2.heading1{
+	color: #ffffff;
+  background-color: #9933cc;
+	text-shadow: 2px 2px 4px #000000;
+}
+h3.heading2{
+  background-color: #9933cc;;
+	color: #ffffff;
+	text-shadow: 2px 2px 4px #000000;
+	text-transform: uppercase;
+}
+
+
+
+
+
+
+
+
+
+
